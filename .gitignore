@@ -1,0 +1,13 @@
+﻿# Node / build artifacts
+node_modules/
+dist/
+*.log
+
+# Lingkungan & rahasia
+.env
+.env.*
+!.env.example
+
+# OS
+Thumbs.db
+.DS_Store
